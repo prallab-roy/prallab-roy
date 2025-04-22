@@ -5,4 +5,4 @@ Hi there! I'm a Desktop Support Engineer (Fresher) with a strong interest in IT 
 Skills: Microsoft Office / Office365 / Libre Office / Microsoft Outlook / Hardware / Networking / Windows Server / Azure-900 / Windows OS / Linux OS / Mac OS / GitHub / VirtualBox / Packet Tracer / VMware Workstation / Microsoft Visual Studio Code / HTML / CSS / Java Script / Python / MySQL
 
 🌱 I’m currently learning Cyber Security 👯 I’m looking to collaborate on GitHub 💬 Ask me about Desktop Support Engineer 
-📫 How to reach me: royprallab@gmail.com | https://prallab-roy.github.io/portfolio/index.html | https://www.instagram.com/prallabroyofficial?igsh=MTFtc24zOXZ4d3Y1ZQ== | https://www.facebook.com/profile.php?id=100087492692883 | https://www.linkedin.com/in/prallab-roy-11a094322/ 
+📫 How to reach me: Email:- royprallab@gmail.com | Website:- https://prallab-roy.github.io/portfolio/index.html | Instagram:- https://www.instagram.com/prallabroyofficial?igsh=MTFtc24zOXZ4d3Y1ZQ== | Facebook:- https://www.facebook.com/profile.php?id=100087492692883 | Linkedin:- https://www.linkedin.com/in/prallab-roy-11a094322/ 
