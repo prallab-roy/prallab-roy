@@ -4,6 +4,6 @@ Hi there! I'm a Desktop Support Engineer (Fresher) with a strong interest in IT 
 
 Skills: Microsoft Office / Office365 / Libre Office / Microsoft Outlook / Hardware / Networking / Windows Server / Azure-900 / Windows OS / Linux OS / Mac OS / GitHub / VirtualBox / Packet Tracer / VMware Workstation / Microsoft Visual Studio Code / HTML / CSS / Java Script / Python / MySQL
 
-### Email Id:- royprallab@gmail.com | prallabroy4@gmail.com 
+### Email Id:- royprallab@gmail.com or prallabroy4@gmail.com 
 ### Website:- https://prallab-roy.github.io/portfolio/index.html
 
