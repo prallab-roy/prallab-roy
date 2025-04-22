@@ -10,7 +10,3 @@ Skills: Microsoft Office / Office365 / Libre Office / Microsoft Outlook / Hardwa
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Desktop Support Engineer 
 - 📫 How to reach me: royprallab@gmail.com 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/prallab-roy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prallab-roy-11a094322//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100087492692883)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/prallabroyofficial?igsh=MTFtc24zOXZ4d3Y1ZQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.prallabroy.com)  
-
