@@ -1,4 +1,4 @@
-![I am a Desktop Support Engineer](https://www.panchkulahelp.com/wp-content/uploads/2024/05/Is-Digital-Marketing-Good-For-Career-1.jpg)
+![I am a Desktop Support Engineer](https://digitalnewzworld.com/wp-content/uploads/2022/08/images.jpg)
 ### Hi there, my name is Prallab Roy | I am a Desktop Support Engineer | Information Technology
 Hi there! I'm a Desktop Support Engineer (Fresher) with a strong interest in IT support and system maintenance. I'm passionate about helping users solve technical issues and ensuring smooth day-to-day operations in a tech-driven environment.
 
